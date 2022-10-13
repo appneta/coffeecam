@@ -1,4 +1,4 @@
 coffeecam
 =========
 
-Support team performance acceleration utility &amp; monitoring
+Support team performance acceleration utility &amp; monitoring.
